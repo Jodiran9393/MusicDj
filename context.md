@@ -42,7 +42,7 @@ MusicDJ is a modern, visually appealing web-based music player app built with Re
   - `index.css` — Global styles
   - `App.jsx` — App entry point
 - `README.md` — Project overview and usage
-- `context.md` — Project context and technical documentation
+- context.md — Project context and technical documentation
 - `package.json` — Dependencies and scripts
 
 ## Design Notes
